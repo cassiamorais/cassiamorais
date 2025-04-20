@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Cássia! 👋
 
-<!--
-**cassiamorais/cassiamorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos e estudos em Python e Ciência de Dados.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Sou graduada em **Administração** e estou cursando pós-graduação em **Ciência de Dados e Big Data Analytics**
+- 🌍 Em transição de carreira para a área de **análise de dados** 
+- 🎯 Meu foco atualmente é em **Power BI, SQL e Python**
+- 💬 Fale comigo sobre **Python**, **Ciência de Dados**, e **empreendedorismo digital**
+
+## 📈 Projetos
+
+- [Calculadora Python](https://github.com/cassiamorais/projetos_python/tree/main/calculadora) - Uma calculadora simples em Python.
+
+## 💬 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cassiamoraisb/)
+- 🧑‍💻 [GitHub](https://github.com/cassiamorais)
+- 📸 [Instagram](https://www.instagram.com/cassiamoraisb)
+
+---
+
+Feito por Cássia Morais 🚀
