@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cássia! 👋</h1>
 
 Seja bem-vindo ao meu perfil do GitHub!
-Aqui compartilho meus projetos e estudos em área de dados.
+Aqui compartilho meus projetos e estudos na área de dados.
 
 ## 🚀 Sobre mim
 
