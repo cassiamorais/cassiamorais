@@ -7,7 +7,6 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos e estudos
 - 💻 Sou graduada em **Administração** e estou cursando pós-graduação em **Ciência de Dados e Big Data Analytics**
 - 🌍 Em transição de carreira para a área de **análise de dados** 
 - 🎯 Meu foco atualmente é em **Power BI, SQL e Python**
-- 💬 Fale comigo sobre **Python**, **Ciência de Dados**, e **empreendedorismo digital**
 
 ## 📈 Projetos
 
