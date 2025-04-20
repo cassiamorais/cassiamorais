@@ -1,6 +1,7 @@
-# Olá, eu sou a Cássia! 👋
+<h1 align="center">Olá, eu sou a Cássia! 👋</h1>
 
-Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos e estudos em Python e Ciência de Dados.
+Seja bem-vindo ao meu perfil do GitHub!
+Aqui compartilho meus projetos e estudos em Python e Ciência de Dados.
 
 ## 🚀 Sobre mim
 
@@ -12,11 +13,16 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos e estudos
 
 - [Calculadora Python](https://github.com/cassiamorais/projetos_python/tree/main/calculadora) - Uma calculadora simples em Python.
 
-## 💬 Como me encontrar
+  *Veja todos os meus projetos no repositório [Projetos Python](https://github.com/cassiamorais/projetos_python)*
+
+## 💬 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cassiamoraisb/)
 - 🧑‍💻 [GitHub](https://github.com/cassiamorais)
 - 📸 [Instagram](https://www.instagram.com/cassiamoraisb)
+
+
+<p align="center">✨ Em construção, aprendendo todos os dias! ✨</p>
 
 ---
 
