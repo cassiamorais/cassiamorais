@@ -13,7 +13,7 @@ Aqui compartilho meus projetos e estudos na área de dados.
 
 - [Calculadora Python](https://github.com/cassiamorais/projetos_python/tree/main/calculadora) - Uma calculadora simples em Python.
 
-  *Veja todos os meus projetos no repositório [Projetos Python](https://github.com/cassiamorais/projetos_python)*
+  *Veja todos os meus projetos no repositório*
 
 ## 💬 Vamos nos conectar?
 
