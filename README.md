@@ -15,7 +15,7 @@ Aqui compartilho meus projetos e estudos na área de dados.
 - [Análise de Performance de Vendas](https://github.com/cassiamorais/Projetos_PowerBI/tree/main/Comercial) - Análise de dados utilizando Power BI
 - [Calculadora Python](https://github.com/cassiamorais/projetos_python/tree/main/calculadora) - Uma calculadora simples em Python.
 
-  *Veja todos os meus projetos no repositório* 👀
+  *Veja todos os meus projetos salvos no [repositório](https://github.com/cassiamorais?tab=repositories)* 👀
 
 ## 💬 Vamos nos conectar?
 
