@@ -11,6 +11,7 @@ Aqui compartilho meus projetos e estudos na área de dados.
 
 ## 📈 Projetos
 
+- [Análise de Campanhas de Marketing](https://github.com/cassiamorais/Projetos_PowerBI/tree/main/Marketing) - Mini-Projeto de análise de dados utilizando Power BI
 - [Calculadora Python](https://github.com/cassiamorais/projetos_python/tree/main/calculadora) - Uma calculadora simples em Python.
 
   *Veja todos os meus projetos no repositório*
