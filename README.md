@@ -7,7 +7,7 @@ Aqui compartilho meus projetos e estudos na área de dados.
 
 - 💻 Sou graduada em **Administração** e estou cursando pós-graduação em **Ciência de Dados e Big Data Analytics**
 - 🌍 Em transição de carreira para a área de **análise de dados** 
-- 🎯 Meu foco atualmente é em **Power BI, SQL e Python**
+- 🎯 Meu foco atualmente é desenvolver minhas habilidades em **Power BI, SQL e Python**
 
 ## 📈 Projetos
 
